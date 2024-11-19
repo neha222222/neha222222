@@ -5,7 +5,7 @@
 I’m currently studying in Pre-final year of Bachelor's of Technology. I’m keen to work on Machine Learning, Android and Web Development projects. I have hands on experience in programming languages C++, Python, Java, Javascript. I have built multiple projects using Python and machine learning algorithms. I have solved over 400 problems in various coding platforms like Codeforces and Leetcode. I’m currently learning Android Development and Advanced alogorithms for Competitive Programming. My skillset includes machine learning, database management systems, object oriented programming, web development, UI/UX and Problem Solver.
 
 <!-- Githubb Stats from [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=neha222222&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=neha222222&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_nehadhruw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/neha-dhruw/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@nehadhruw3) 
