@@ -2,7 +2,7 @@
 <!--**neha222222/neha222222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### Hi There!
-I’m currently studying in Pre-final year of Bachelor's of Technology. I’m keen to work on Machine Learning and Web Development projects. I have hands on experience in programming languages C++, Python, Java, Javascript. I have built multiple projects using Python and machine learning algorithms. My skillset includes machine learning, database management systems, object oriented programming, web development and Problem Solver.
+I’m currently studying in Pre-final year of Bachelor's of Technology. I’m keen to work on Machine Learning and Backend and Fullstack Development projects. I have hands on experience in programming languages C++, Python, Java, Javascript. I have built multiple projects using Python and machine learning algorithms. My skillset includes machine learning, database management systems, object oriented programming, web development and Problem Solver.
 
 <!-- Githubb Stats from [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--[![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=neha222222&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
